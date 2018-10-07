@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a37eba44-8d1a-4335-b13f-6fa127539eb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client1/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client1/sso-client1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client2/sso-client2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/sso-server/target/" />
+    <ignored path="$PROJECT_DIR$/sso-client1/target/" />
+    <ignored path="$PROJECT_DIR$/sso-client2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="315939382">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="java" value="3" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="8" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="9" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="291" />
+          <entry key="xml" value="144" />
+          <entry key="yml" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="291" />
+          <entry key="XML" value="144" />
+          <entry key="YAML" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sso-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://MAVEN/cn.corner:sso-client1:1.0-SNAPSHOT">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>MAVEN</ID>
+              <OriginalElement>cn.corner:sso-client1:1.0-SNAPSHOT</OriginalElement>
+              <nodes>
+                <node x="506.03239580432603" y="1040.0">cn.corner:sso-client1:1.0-SNAPSHOT</node>
+                <node x="741.032395804326" y="960.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE</node>
+                <node x="1578.7407291376594" y="720.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
+                <node x="1455.0178571428569" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
+                <node x="1476.4907291376594" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
+                <node x="1797.4907291376594" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
+                <node x="1659.2196463380687" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+                <node x="1634.7196463380687" y="450.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+                <node x="1856.9907291376594" y="450.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25</node>
+                <node x="1960.9907291376594" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+                <node x="1999.2407291376594" y="450.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+                <node x="1849.9907291376594" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+                <node x="1278.2056066091145" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+                <node x="1685.4907291376594" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+                <node x="662.0389399424478" y="310.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
+                <node x="493.4107142857143" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE</node>
+                <node x="598.4073958043261" y="830.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE</node>
+                <node x="804.1639399424478" y="310.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
+                <node x="1404.0740624709929" y="960.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
+                <node x="2219.693423373248" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
+                <node x="2411.8657291376594" y="630.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
+                <node x="2520.6011904761904" y="540.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+                <node x="2339.434523809524" y="540.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
+                <node x="2070.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
+                <node x="2504.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
+                <node x="2251.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
+                <node x="1195.7407291376594" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
+                <node x="1076.3984962406016" y="630.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+                <node x="1423.0740624709929" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+                <node x="1117.9556066091145" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+                <node x="2817.693423373248" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
+                <node x="2828.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+                <node x="2696.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+                <node x="2959.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
+                <node x="998.9556066091143" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
+                <node x="921.6639399424477" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
+                <node x="239.53239580432614" y="960.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE</node>
+                <node x="597.1639399424478" y="210.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
+                <node x="672.0357142857143" y="80.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
+                <node x="679.0357142857143" y="0.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
+                <node x="680.2857142857142" y="450.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
+                <node x="377.03571428571433" y="540.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE</node>
+                <node x="0.0" y="830.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/commons-codec:commons-codec:jar:1.11</node>
+                <node x="151.0" y="830.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+                <node x="160.5" y="720.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+                <node x="78.53239580432614" y="960.0">org.springframework.security:spring-security-jwt:jar:unknown</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="14.75" y="-15.0" />
+                  <point x="754.0357142857142" y="400.0" />
+                  <point x="793.6639399424478" y="400.0" />
+                  <point x="793.6639399424478" y="180.0" />
+                  <point x="726.202380952381" y="180.0" />
+                  <point x="4.166666666666686" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+                  <point x="-60.41666666666674" y="-15.0" />
+                  <point x="1590.8240624709927" y="700.0" />
+                  <point x="1389.9556066091145" y="700.0" />
+                  <point x="37.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="321.53239580432614" y="940.0" />
+                  <point x="317.5" y="940.0" />
+                  <point x="317.5" y="590.0" />
+                  <point x="402.03571428571433" y="590.0" />
+                  <point x="-50.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+                  <point x="14.583333333333258" y="-15.0" />
+                  <point x="1506.157395804326" y="920.0" />
+                  <point x="1634.1934233732482" y="920.0" />
+                  <point x="1634.1934233732482" y="810.0" />
+                  <point x="1651.2407291376594" y="810.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="-54.66666666666663" y="-15.0" />
+                  <point x="266.8657291376595" y="930.0" />
+                  <point x="140.5" y="930.0" />
+                  <point x="140.5" y="150.0" />
+                  <point x="676.202380952381" y="150.0" />
+                  <point x="-45.833333333333314" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+                  <point x="30.0" y="-15.0" />
+                  <point x="1749.2196463380687" y="520.0" />
+                  <point x="1869.8240624709927" y="520.0" />
+                  <point x="-25.666666666666742" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE">
+                  <point x="-12.083333333333258" y="-15.0" />
+                  <point x="1639.1573958043261" y="680.0" />
+                  <point x="1570.9907291376594" y="680.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.security:spring-security-jwt:jar:unknown">
+                  <point x="-35.625" y="-15.0" />
+                  <point x="517.907395804326" y="1020.0" />
+                  <point x="149.03239580432614" y="1020.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+                  <point x="-44.25" y="-15.0" />
+                  <point x="695.0357142857142" y="400.0" />
+                  <point x="718.0389399424478" y="400.0" />
+                  <point x="8.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="-14.75" y="-15.0" />
+                  <point x="724.5357142857142" y="390.0" />
+                  <point x="782.6639399424478" y="390.0" />
+                  <point x="782.6639399424478" y="280.0" />
+                  <point x="671.4139399424478" y="280.0" />
+                  <point x="20.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE">
+                  <point x="-14.583333333333258" y="-15.0" />
+                  <point x="1476.9907291376594" y="880.0" />
+                  <point x="1291.7407291376594" y="880.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+                  <point x="30.0" y="-15.0" />
+                  <point x="482.03571428571433" y="520.0" />
+                  <point x="476.94342337324827" y="520.0" />
+                  <point x="476.94342337324827" y="410.0" />
+                  <point x="821.1639399424478" y="410.0" />
+                  <point x="-51.0" y="15.0" />
+                </edge>
+                <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE">
+                  <point x="-11.875" y="-15.0" />
+                  <point x="541.657395804326" y="1010.0" />
+                  <point x="321.53239580432614" y="1010.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4">
+                  <point x="48.0" y="-15.0" />
+                  <point x="2937.693423373248" y="810.0" />
+                  <point x="3003.8657291376594" y="810.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
+                  <point x="-30.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="651.1639399424478" y="190.0" />
+                  <point x="709.5357142857143" y="190.0" />
+                  <point x="-12.499999999999993" y="15.0" />
+                </edge>
+                <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE">
+                  <point x="11.875" y="-15.0" />
+                  <point x="565.407395804326" y="1010.0" />
+                  <point x="839.032395804326" y="1010.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+                  <point x="-25.5" y="-15.0" />
+                  <point x="1480.5178571428569" y="510.0" />
+                  <point x="788.452380952381" y="510.0" />
+                  <point x="49.16666666666667" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE">
+                  <point x="-24.5" y="-15.0" />
+                  <point x="814.532395804326" y="880.0" />
+                  <point x="866.8928571428571" y="880.0" />
+                  <point x="866.8928571428571" y="700.0" />
+                  <point x="613.4107142857142" y="700.0" />
+                  <point x="40.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="24.5" y="-15.0" />
+                  <point x="1072.4556066091143" y="700.0" />
+                  <point x="1045.8984962406016" y="700.0" />
+                  <point x="1045.8984962406016" y="150.0" />
+                  <point x="751.202380952381" y="150.0" />
+                  <point x="29.166666666666686" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+                  <point x="57.33333333333326" y="-15.0" />
+                  <point x="2648.1990624709924" y="700.0" />
+                  <point x="2643.413939942448" y="700.0" />
+                  <point x="2643.413939942448" y="610.0" />
+                  <point x="2631.6011904761904" y="610.0" />
+                  <point x="37.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+                  <point x="42.28571428571428" y="-15.0" />
+                  <point x="714.6931100900404" y="800.0" />
+                  <point x="840.2857142857142" y="800.0" />
+                  <point x="840.2857142857142" y="430.0" />
+                  <point x="889.1639399424478" y="430.0" />
+                  <point x="17.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="-24.5" y="-15.0" />
+                  <point x="1023.4556066091143" y="700.0" />
+                  <point x="1034.8984962406016" y="700.0" />
+                  <point x="1034.8984962406016" y="260.0" />
+                  <point x="698.4139399424478" y="260.0" />
+                  <point x="47.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="10.166666666666629" y="-15.0" />
+                  <point x="992.8306066091143" y="790.0" />
+                  <point x="974.1639399424477" y="790.0" />
+                  <point x="974.1639399424477" y="270.0" />
+                  <point x="684.9139399424478" y="270.0" />
+                  <point x="33.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+                  <point x="-33.0" y="-15.0" />
+                  <point x="2444.8657291376594" y="610.0" />
+                  <point x="2405.684523809524" y="610.0" />
+                  <point x="13.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="-24.0" y="-15.0" />
+                  <point x="686.0389399424478" y="290.0" />
+                  <point x="657.9139399424478" y="290.0" />
+                  <point x="6.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0">
+                  <point x="26.75" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE">
+                  <point x="36.44444444444446" y="-15.0" />
+                  <point x="357.9768402487706" y="930.0" />
+                  <point x="339.5" y="930.0" />
+                  <point x="339.5" y="700.0" />
+                  <point x="533.4107142857142" y="700.0" />
+                  <point x="-40.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+                  <point x="-43.5" y="-15.0" />
+                  <point x="2263.193423373248" y="780.0" />
+                  <point x="1699.5740624709927" y="780.0" />
+                  <point x="48.33333333333326" y="15.0" />
+                </edge>
+                <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE">
+                  <point x="35.625" y="-15.0" />
+                  <point x="589.157395804326" y="1020.0" />
+                  <point x="1491.5740624709929" y="1020.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+                  <point x="24.0" y="-15.0" />
+                  <point x="-37.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1211.4556066091145" y="700.0" />
+                  <point x="1189.6484962406016" y="700.0" />
+                  <point x="37.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31">
+                  <point x="-72.0" y="-15.0" />
+                  <point x="1219.7407291376594" y="810.0" />
+                  <point x="1107.4556066091145" y="810.0" />
+                  <point x="1107.4556066091145" y="700.0" />
+                  <point x="1114.1484962406016" y="700.0" />
+                  <point x="-37.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+                  <point x="-43.75" y="-15.0" />
+                  <point x="1447.8240624709929" y="890.0" />
+                  <point x="1060.2056066091143" y="890.0" />
+                  <point x="12.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+                  <point x="-10.166666666666629" y="-15.0" />
+                  <point x="972.497273275781" y="800.0" />
+                  <point x="963.1639399424477" y="800.0" />
+                  <point x="963.1639399424477" y="360.0" />
+                  <point x="923.1639399424478" y="360.0" />
+                  <point x="51.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+                  <point x="60.0" y="-15.0" />
+                  <point x="512.0357142857143" y="500.0" />
+                  <point x="690.1190476190476" y="500.0" />
+                  <point x="-49.16666666666667" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+                  <point x="32.0" y="-15.0" />
+                  <point x="605.4107142857142" y="610.0" />
+                  <point x="618.3184233732482" y="610.0" />
+                  <point x="618.3184233732482" y="380.0" />
+                  <point x="686.0389399424478" y="380.0" />
+                  <point x="-24.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="-32.0" y="-15.0" />
+                  <point x="541.4107142857142" y="610.0" />
+                  <point x="548.5357142857142" y="610.0" />
+                  <point x="548.5357142857142" y="180.0" />
+                  <point x="701.202380952381" y="180.0" />
+                  <point x="-20.833333333333314" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="672.4073958043261" y="810.0" />
+                  <point x="663.9107142857142" y="810.0" />
+                  <point x="663.9107142857142" y="390.0" />
+                  <point x="702.0389399424478" y="390.0" />
+                  <point x="-8.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE">
+                  <point x="-72.91666666666674" y="-15.0" />
+                  <point x="1418.657395804326" y="900.0" />
+                  <point x="1013.1639399424477" y="900.0" />
+                  <point x="30.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+                  <point x="0.0" y="-15.0" />
+                  <point x="2590.8657291376594" y="600.0" />
+                  <point x="2432.184523809524" y="600.0" />
+                  <point x="39.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+                  <point x="64.0" y="-15.0" />
+                  <point x="637.4107142857142" y="610.0" />
+                  <point x="629.3184233732482" y="610.0" />
+                  <point x="629.3184233732482" y="520.0" />
+                  <point x="729.452380952381" y="520.0" />
+                  <point x="-9.833333333333314" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+                  <point x="21.14285714285711" y="-15.0" />
+                  <point x="693.5502529471833" y="790.0" />
+                  <point x="749.1190476190477" y="790.0" />
+                  <point x="9.833333333333314" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="573.4107142857142" y="600.0" />
+                  <point x="606.2857142857142" y="600.0" />
+                  <point x="606.2857142857142" y="290.0" />
+                  <point x="644.4139399424478" y="290.0" />
+                  <point x="-6.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+                  <point x="24.5" y="-15.0" />
+                  <point x="863.532395804326" y="890.0" />
+                  <point x="877.8928571428571" y="890.0" />
+                  <point x="877.8928571428571" y="380.0" />
+                  <point x="734.0389399424478" y="380.0" />
+                  <point x="24.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="24.0" y="-15.0" />
+                  <point x="734.0389399424478" y="190.0" />
+                  <point x="717.8690476190477" y="190.0" />
+                  <point x="-4.166666666666629" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE">
+                  <point x="72.88888888888889" y="-15.0" />
+                  <point x="394.42128469321506" y="900.0" />
+                  <point x="952.1639399424477" y="900.0" />
+                  <point x="-30.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE">
+                  <point x="-36.25" y="-15.0" />
+                  <point x="1614.9907291376594" y="690.0" />
+                  <point x="1465.9907291376594" y="690.0" />
+                  <point x="1465.9907291376594" y="610.0" />
+                  <point x="1480.5178571428569" y="610.0" />
+                  <point x="-25.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE">
+                  <point x="54.666666666666664" y="-15.0" />
+                  <point x="376.19906247099277" y="890.0" />
+                  <point x="635.4073958043261" y="890.0" />
+                  <point x="-37.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+                  <point x="-50.83333333333337" y="-15.0" />
+                  <point x="931.8306066091143" y="800.0" />
+                  <point x="917.2261904761904" y="800.0" />
+                  <point x="917.2261904761904" y="520.0" />
+                  <point x="768.7857142857142" y="520.0" />
+                  <point x="29.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31">
+                  <point x="72.0" y="-15.0" />
+                  <point x="1363.7407291376594" y="810.0" />
+                  <point x="1490.5740624709929" y="810.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+                  <point x="-72.5" y="-15.0" />
+                  <point x="2234.193423373248" y="790.0" />
+                  <point x="1084.7056066091143" y="790.0" />
+                  <point x="36.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+                  <point x="-57.33333333333337" y="-15.0" />
+                  <point x="2533.532395804326" y="700.0" />
+                  <point x="2527.3657291376594" y="700.0" />
+                  <point x="49.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="452.03571428571433" y="520.0" />
+                  <point x="442.53571428571433" y="520.0" />
+                  <point x="442.53571428571433" y="370.0" />
+                  <point x="670.0389399424478" y="370.0" />
+                  <point x="-40.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="-42.28571428571428" y="-15.0" />
+                  <point x="630.1216815186119" y="800.0" />
+                  <point x="366.53571428571433" y="800.0" />
+                  <point x="366.53571428571433" y="270.0" />
+                  <point x="617.4139399424478" y="270.0" />
+                  <point x="-33.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31">
+                  <point x="-24.0" y="-15.0" />
+                  <point x="1267.7407291376594" y="800.0" />
+                  <point x="1211.4556066091145" y="800.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="872.1639399424478" y="170.0" />
+                  <point x="734.5357142857143" y="170.0" />
+                  <point x="12.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+                  <point x="40.25" y="-15.0" />
+                  <point x="2191.6157291376594" y="690.0" />
+                  <point x="2428.3657291376594" y="690.0" />
+                  <point x="-49.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6">
+                  <point x="-14.5" y="-15.0" />
+                  <point x="2292.193423373248" y="770.0" />
+                  <point x="2151.3657291376594" y="770.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+                  <point x="-26.75" y="-15.0" />
+                  <point x="1987.7407291376594" y="520.0" />
+                  <point x="1921.1573958043261" y="520.0" />
+                  <point x="25.666666666666742" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13">
+                  <point x="-36.44444444444446" y="-15.0" />
+                  <point x="285.0879513598817" y="920.0" />
+                  <point x="223.5" y="920.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+                  <point x="43.5" y="-15.0" />
+                  <point x="2350.193423373248" y="800.0" />
+                  <point x="2494.3657291376594" y="800.0" />
+                  <point x="16.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="-30.0" y="-15.0" />
+                  <point x="422.03571428571433" y="520.0" />
+                  <point x="427.6246867167922" y="520.0" />
+                  <point x="427.6246867167922" y="280.0" />
+                  <point x="630.9139399424478" y="280.0" />
+                  <point x="-20.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE">
+                  <point x="-64.0" y="-15.0" />
+                  <point x="509.4107142857143" y="590.0" />
+                  <point x="502.03571428571433" y="590.0" />
+                  <point x="50.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="-63.428571428571445" y="-15.0" />
+                  <point x="608.9788243757547" y="810.0" />
+                  <point x="355.53571428571433" y="810.0" />
+                  <point x="355.53571428571433" y="160.0" />
+                  <point x="684.5357142857143" y="160.0" />
+                  <point x="-37.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+                  <point x="50.83333333333337" y="-15.0" />
+                  <point x="1033.497273275781" y="810.0" />
+                  <point x="1035.7056066091143" y="810.0" />
+                  <point x="-12.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+                  <point x="-48.0" y="-15.0" />
+                  <point x="2841.693423373248" y="810.0" />
+                  <point x="2752.8657291376594" y="810.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="-60.0" y="-15.0" />
+                  <point x="392.03571428571433" y="520.0" />
+                  <point x="416.6246867167922" y="520.0" />
+                  <point x="416.6246867167922" y="170.0" />
+                  <point x="692.8690476190477" y="170.0" />
+                  <point x="-29.166666666666686" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+                  <point x="-58.0" y="-15.0" />
+                  <point x="2309.8657291376594" y="610.0" />
+                  <point x="2379.184523809524" y="610.0" />
+                  <point x="-13.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+                  <point x="58.0" y="-15.0" />
+                  <point x="2425.8657291376594" y="700.0" />
+                  <point x="2461.3657291376594" y="700.0" />
+                  <point x="-16.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE">
+                  <point x="-21.14285714285711" y="-15.0" />
+                  <point x="651.264538661469" y="790.0" />
+                  <point x="422.28239580432614" y="790.0" />
+                  <point x="422.28239580432614" y="590.0" />
+                  <point x="452.03571428571433" y="590.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1570.9907291376594" y="610.0" />
+                  <point x="1531.5178571428569" y="610.0" />
+                  <point x="25.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+                  <point x="-30.5" y="-15.0" />
+                  <point x="952.1639399424477" y="790.0" />
+                  <point x="928.2261904761904" y="790.0" />
+                  <point x="928.2261904761904" y="370.0" />
+                  <point x="750.0389399424478" y="370.0" />
+                  <point x="40.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+                  <point x="44.25" y="-15.0" />
+                  <point x="783.5357142857142" y="420.0" />
+                  <point x="855.1639399424478" y="420.0" />
+                  <point x="-17.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6">
+                  <point x="72.5" y="-15.0" />
+                  <point x="2379.193423373248" y="810.0" />
+                  <point x="2590.8657291376594" y="810.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final">
+                  <point x="0.0" y="-15.0" />
+                  <point x="2889.693423373248" y="810.0" />
+                  <point x="2884.3657291376594" y="810.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3">
+                  <point x="-65.33333333333326" y="-15.0" />
+                  <point x="1830.1573958043261" y="610.0" />
+                  <point x="1719.2196463380687" y="610.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="30.5" y="-15.0" />
+                  <point x="1013.1639399424477" y="780.0" />
+                  <point x="985.1639399424477" y="780.0" />
+                  <point x="985.1639399424477" y="160.0" />
+                  <point x="742.8690476190477" y="160.0" />
+                  <point x="20.83333333333337" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/commons-codec:commons-codec:jar:1.11">
+                  <point x="-72.88888888888891" y="-15.0" />
+                  <point x="248.64350691543723" y="940.0" />
+                  <point x="65.0" y="940.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+                  <point x="63.428571428571445" y="-15.0" />
+                  <point x="735.8359672328976" y="810.0" />
+                  <point x="1011.2056066091143" y="810.0" />
+                  <point x="-36.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE">
+                  <point x="43.75" y="-15.0" />
+                  <point x="1535.3240624709929" y="930.0" />
+                  <point x="2306.693423373248" y="930.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+                  <point x="-40.25" y="-15.0" />
+                  <point x="2111.1157291376594" y="600.0" />
+                  <point x="2352.684523809524" y="600.0" />
+                  <point x="-39.75" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE">
+                  <point x="36.25" y="-15.0" />
+                  <point x="1687.4907291376594" y="690.0" />
+                  <point x="1895.4907291376594" y="690.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="25.5" y="-15.0" />
+                  <point x="1531.5178571428569" y="140.0" />
+                  <point x="759.5357142857143" y="140.0" />
+                  <point x="37.50000000000003" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+                  <point x="-18.222222222222285" y="-15.0" />
+                  <point x="303.31017358210386" y="940.0" />
+                  <point x="306.5" y="940.0" />
+                  <point x="306.5" y="260.0" />
+                  <point x="603.9139399424478" y="260.0" />
+                  <point x="-47.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+                  <point x="60.41666666666674" y="-15.0" />
+                  <point x="1711.6573958043261" y="700.0" />
+                  <point x="2093.7407291376594" y="700.0" />
+                  <point x="2093.7407291376594" y="130.0" />
+                  <point x="767.8690476190477" y="130.0" />
+                  <point x="45.83333333333337" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+                  <point x="33.0" y="-15.0" />
+                  <point x="2510.8657291376594" y="610.0" />
+                  <point x="2557.6011904761904" y="610.0" />
+                  <point x="-37.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE">
+                  <point x="-73.5" y="-15.0" />
+                  <point x="765.532395804326" y="890.0" />
+                  <point x="709.4073958043261" y="890.0" />
+                  <point x="37.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+                  <point x="18.22222222222217" y="-15.0" />
+                  <point x="339.7546180265483" y="940.0" />
+                  <point x="328.5" y="940.0" />
+                  <point x="328.5" y="600.0" />
+                  <point x="537.5357142857142" y="600.0" />
+                  <point x="537.5357142857142" y="510.0" />
+                  <point x="709.7857142857142" y="510.0" />
+                  <point x="-29.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+                  <point x="73.5" y="-15.0" />
+                  <point x="912.532395804326" y="910.0" />
+                  <point x="1621.5740624709929" y="910.0" />
+                  <point x="1621.5740624709929" y="810.0" />
+                  <point x="1602.9073958043261" y="810.0" />
+                  <point x="-48.33333333333326" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final">
+                  <point x="72.91666666666674" y="-15.0" />
+                  <point x="1564.4907291376594" y="940.0" />
+                  <point x="2889.693423373248" y="940.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0">
+                  <point x="65.33333333333326" y="-15.0" />
+                  <point x="1960.8240624709927" y="610.0" />
+                  <point x="2014.4907291376594" y="610.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19">
+                  <point x="12.083333333333258" y="-15.0" />
+                  <point x="1663.3240624709927" y="680.0" />
+                  <point x="1731.4907291376594" y="680.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6">
+                  <point x="14.5" y="-15.0" />
+                  <point x="2321.193423373248" y="790.0" />
+                  <point x="2367.8657291376594" y="790.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.14480975249353528" x="1647.3469387755101" y="-4.468112244898066" />
+              <SelectedNodes />
+              <Categories />
+              <VISIBILITY>All</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sso-client1/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sso-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sso-client1/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/io/spring/platform/platform-bom/Cairo-SR4/platform-bom-Cairo-SR4.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="48" column="37" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-security-oauth2</find>
+      <find>spring-security-oauth.version</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sso-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java" />
+        <option value="$PROJECT_DIR$/sso-client1/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Develop/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="security-uas" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sso-client1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sso-client1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sso-client1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-security:2.0.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="500" />
+    <option name="y" value="51" />
+    <option name="width" value="1105" />
+    <option name="height" value="605" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="corner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="corner" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="corner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="corner" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.corner.sso" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.corner.sso" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Develop\security-uas\sso-client1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SsoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.corner.sso.SsoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37eba44-8d1a-4335-b13f-6fa127539eb5" name="Default Changelist" comment="" />
+      <created>1538899664197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538899664197</updated>
+      <workItem from="1538899665487" duration="6188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6188000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19571045" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven Projects" weight="0.3914209" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sso-client2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/SsoServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/cn.corner:sso-client1:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>cn.corner:sso-client1:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="506.03239580432603" y="1040.0">cn.corner:sso-client1:1.0-SNAPSHOT</node>
+            <node x="741.032395804326" y="960.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE</node>
+            <node x="1578.7407291376594" y="720.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
+            <node x="1455.0178571428569" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
+            <node x="1476.4907291376594" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="1797.4907291376594" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
+            <node x="1659.2196463380687" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="1634.7196463380687" y="450.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="1856.9907291376594" y="450.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="1960.9907291376594" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="1999.2407291376594" y="450.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="1849.9907291376594" y="540.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="1278.2056066091145" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="1685.4907291376594" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="662.0389399424478" y="310.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
+            <node x="493.4107142857143" y="630.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE</node>
+            <node x="598.4073958043261" y="830.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE</node>
+            <node x="804.1639399424478" y="310.0">org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
+            <node x="1404.0740624709929" y="960.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
+            <node x="2219.693423373248" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
+            <node x="2411.8657291376594" y="630.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
+            <node x="2520.6011904761904" y="540.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="2339.434523809524" y="540.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
+            <node x="2070.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
+            <node x="2504.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
+            <node x="2251.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
+            <node x="1195.7407291376594" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
+            <node x="1076.3984962406016" y="630.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="1423.0740624709929" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="1117.9556066091145" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="2817.693423373248" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
+            <node x="2828.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="2696.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="2959.8657291376594" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="998.9556066091143" y="720.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
+            <node x="921.6639399424477" y="830.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
+            <node x="239.53239580432614" y="960.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE</node>
+            <node x="597.1639399424478" y="210.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
+            <node x="672.0357142857143" y="80.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
+            <node x="679.0357142857143" y="0.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
+            <node x="680.2857142857142" y="450.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
+            <node x="377.03571428571433" y="540.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE</node>
+            <node x="0.0" y="830.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/commons-codec:commons-codec:jar:1.11</node>
+            <node x="151.0" y="830.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="160.5" y="720.0">org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+            <node x="78.53239580432614" y="960.0">org.springframework.security:spring-security-jwt:jar:unknown</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="14.75" y="-15.0" />
+              <point x="754.0357142857142" y="400.0" />
+              <point x="793.6639399424478" y="400.0" />
+              <point x="793.6639399424478" y="180.0" />
+              <point x="726.202380952381" y="180.0" />
+              <point x="4.166666666666686" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="-60.41666666666674" y="-15.0" />
+              <point x="1590.8240624709927" y="700.0" />
+              <point x="1389.9556066091145" y="700.0" />
+              <point x="37.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="321.53239580432614" y="940.0" />
+              <point x="317.5" y="940.0" />
+              <point x="317.5" y="590.0" />
+              <point x="402.03571428571433" y="590.0" />
+              <point x="-50.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+              <point x="14.583333333333258" y="-15.0" />
+              <point x="1506.157395804326" y="920.0" />
+              <point x="1634.1934233732482" y="920.0" />
+              <point x="1634.1934233732482" y="810.0" />
+              <point x="1651.2407291376594" y="810.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="-54.66666666666663" y="-15.0" />
+              <point x="266.8657291376595" y="930.0" />
+              <point x="140.5" y="930.0" />
+              <point x="140.5" y="150.0" />
+              <point x="676.202380952381" y="150.0" />
+              <point x="-45.833333333333314" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="30.0" y="-15.0" />
+              <point x="1749.2196463380687" y="520.0" />
+              <point x="1869.8240624709927" y="520.0" />
+              <point x="-25.666666666666742" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE">
+              <point x="-12.083333333333258" y="-15.0" />
+              <point x="1639.1573958043261" y="680.0" />
+              <point x="1570.9907291376594" y="680.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.security:spring-security-jwt:jar:unknown">
+              <point x="-35.625" y="-15.0" />
+              <point x="517.907395804326" y="1020.0" />
+              <point x="149.03239580432614" y="1020.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="-44.25" y="-15.0" />
+              <point x="695.0357142857142" y="400.0" />
+              <point x="718.0389399424478" y="400.0" />
+              <point x="8.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="-14.75" y="-15.0" />
+              <point x="724.5357142857142" y="390.0" />
+              <point x="782.6639399424478" y="390.0" />
+              <point x="782.6639399424478" y="280.0" />
+              <point x="671.4139399424478" y="280.0" />
+              <point x="20.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE">
+              <point x="-14.583333333333258" y="-15.0" />
+              <point x="1476.9907291376594" y="880.0" />
+              <point x="1291.7407291376594" y="880.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+              <point x="30.0" y="-15.0" />
+              <point x="482.03571428571433" y="520.0" />
+              <point x="476.94342337324827" y="520.0" />
+              <point x="476.94342337324827" y="410.0" />
+              <point x="821.1639399424478" y="410.0" />
+              <point x="-51.0" y="15.0" />
+            </edge>
+            <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE">
+              <point x="-11.875" y="-15.0" />
+              <point x="541.657395804326" y="1010.0" />
+              <point x="321.53239580432614" y="1010.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4">
+              <point x="48.0" y="-15.0" />
+              <point x="2937.693423373248" y="810.0" />
+              <point x="3003.8657291376594" y="810.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
+              <point x="-30.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="651.1639399424478" y="190.0" />
+              <point x="709.5357142857143" y="190.0" />
+              <point x="-12.499999999999993" y="15.0" />
+            </edge>
+            <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE">
+              <point x="11.875" y="-15.0" />
+              <point x="565.407395804326" y="1010.0" />
+              <point x="839.032395804326" y="1010.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="-25.5" y="-15.0" />
+              <point x="1480.5178571428569" y="510.0" />
+              <point x="788.452380952381" y="510.0" />
+              <point x="49.16666666666667" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE">
+              <point x="-24.5" y="-15.0" />
+              <point x="814.532395804326" y="880.0" />
+              <point x="866.8928571428571" y="880.0" />
+              <point x="866.8928571428571" y="700.0" />
+              <point x="613.4107142857142" y="700.0" />
+              <point x="40.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="24.5" y="-15.0" />
+              <point x="1072.4556066091143" y="700.0" />
+              <point x="1045.8984962406016" y="700.0" />
+              <point x="1045.8984962406016" y="150.0" />
+              <point x="751.202380952381" y="150.0" />
+              <point x="29.166666666666686" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="57.33333333333326" y="-15.0" />
+              <point x="2648.1990624709924" y="700.0" />
+              <point x="2643.413939942448" y="700.0" />
+              <point x="2643.413939942448" y="610.0" />
+              <point x="2631.6011904761904" y="610.0" />
+              <point x="37.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+              <point x="42.28571428571428" y="-15.0" />
+              <point x="714.6931100900404" y="800.0" />
+              <point x="840.2857142857142" y="800.0" />
+              <point x="840.2857142857142" y="430.0" />
+              <point x="889.1639399424478" y="430.0" />
+              <point x="17.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="-24.5" y="-15.0" />
+              <point x="1023.4556066091143" y="700.0" />
+              <point x="1034.8984962406016" y="700.0" />
+              <point x="1034.8984962406016" y="260.0" />
+              <point x="698.4139399424478" y="260.0" />
+              <point x="47.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="10.166666666666629" y="-15.0" />
+              <point x="992.8306066091143" y="790.0" />
+              <point x="974.1639399424477" y="790.0" />
+              <point x="974.1639399424477" y="270.0" />
+              <point x="684.9139399424478" y="270.0" />
+              <point x="33.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="-33.0" y="-15.0" />
+              <point x="2444.8657291376594" y="610.0" />
+              <point x="2405.684523809524" y="610.0" />
+              <point x="13.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="-24.0" y="-15.0" />
+              <point x="686.0389399424478" y="290.0" />
+              <point x="657.9139399424478" y="290.0" />
+              <point x="6.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0">
+              <point x="26.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE">
+              <point x="36.44444444444446" y="-15.0" />
+              <point x="357.9768402487706" y="930.0" />
+              <point x="339.5" y="930.0" />
+              <point x="339.5" y="700.0" />
+              <point x="533.4107142857142" y="700.0" />
+              <point x="-40.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+              <point x="-43.5" y="-15.0" />
+              <point x="2263.193423373248" y="780.0" />
+              <point x="1699.5740624709927" y="780.0" />
+              <point x="48.33333333333326" y="15.0" />
+            </edge>
+            <edge source="cn.corner:sso-client1:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE">
+              <point x="35.625" y="-15.0" />
+              <point x="589.157395804326" y="1020.0" />
+              <point x="1491.5740624709929" y="1020.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="24.0" y="-15.0" />
+              <point x="-37.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31">
+              <point x="0.0" y="-15.0" />
+              <point x="1211.4556066091145" y="700.0" />
+              <point x="1189.6484962406016" y="700.0" />
+              <point x="37.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31">
+              <point x="-72.0" y="-15.0" />
+              <point x="1219.7407291376594" y="810.0" />
+              <point x="1107.4556066091145" y="810.0" />
+              <point x="1107.4556066091145" y="700.0" />
+              <point x="1114.1484962406016" y="700.0" />
+              <point x="-37.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+              <point x="-43.75" y="-15.0" />
+              <point x="1447.8240624709929" y="890.0" />
+              <point x="1060.2056066091143" y="890.0" />
+              <point x="12.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+              <point x="-10.166666666666629" y="-15.0" />
+              <point x="972.497273275781" y="800.0" />
+              <point x="963.1639399424477" y="800.0" />
+              <point x="963.1639399424477" y="360.0" />
+              <point x="923.1639399424478" y="360.0" />
+              <point x="51.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="60.0" y="-15.0" />
+              <point x="512.0357142857143" y="500.0" />
+              <point x="690.1190476190476" y="500.0" />
+              <point x="-49.16666666666667" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="32.0" y="-15.0" />
+              <point x="605.4107142857142" y="610.0" />
+              <point x="618.3184233732482" y="610.0" />
+              <point x="618.3184233732482" y="380.0" />
+              <point x="686.0389399424478" y="380.0" />
+              <point x="-24.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="-32.0" y="-15.0" />
+              <point x="541.4107142857142" y="610.0" />
+              <point x="548.5357142857142" y="610.0" />
+              <point x="548.5357142857142" y="180.0" />
+              <point x="701.202380952381" y="180.0" />
+              <point x="-20.833333333333314" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="672.4073958043261" y="810.0" />
+              <point x="663.9107142857142" y="810.0" />
+              <point x="663.9107142857142" y="390.0" />
+              <point x="702.0389399424478" y="390.0" />
+              <point x="-8.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE">
+              <point x="-72.91666666666674" y="-15.0" />
+              <point x="1418.657395804326" y="900.0" />
+              <point x="1013.1639399424477" y="900.0" />
+              <point x="30.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="0.0" y="-15.0" />
+              <point x="2590.8657291376594" y="600.0" />
+              <point x="2432.184523809524" y="600.0" />
+              <point x="39.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="64.0" y="-15.0" />
+              <point x="637.4107142857142" y="610.0" />
+              <point x="629.3184233732482" y="610.0" />
+              <point x="629.3184233732482" y="520.0" />
+              <point x="729.452380952381" y="520.0" />
+              <point x="-9.833333333333314" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="21.14285714285711" y="-15.0" />
+              <point x="693.5502529471833" y="790.0" />
+              <point x="749.1190476190477" y="790.0" />
+              <point x="9.833333333333314" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="573.4107142857142" y="600.0" />
+              <point x="606.2857142857142" y="600.0" />
+              <point x="606.2857142857142" y="290.0" />
+              <point x="644.4139399424478" y="290.0" />
+              <point x="-6.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="24.5" y="-15.0" />
+              <point x="863.532395804326" y="890.0" />
+              <point x="877.8928571428571" y="890.0" />
+              <point x="877.8928571428571" y="380.0" />
+              <point x="734.0389399424478" y="380.0" />
+              <point x="24.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="24.0" y="-15.0" />
+              <point x="734.0389399424478" y="190.0" />
+              <point x="717.8690476190477" y="190.0" />
+              <point x="-4.166666666666629" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE">
+              <point x="72.88888888888889" y="-15.0" />
+              <point x="394.42128469321506" y="900.0" />
+              <point x="952.1639399424477" y="900.0" />
+              <point x="-30.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE">
+              <point x="-36.25" y="-15.0" />
+              <point x="1614.9907291376594" y="690.0" />
+              <point x="1465.9907291376594" y="690.0" />
+              <point x="1465.9907291376594" y="610.0" />
+              <point x="1480.5178571428569" y="610.0" />
+              <point x="-25.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE">
+              <point x="54.666666666666664" y="-15.0" />
+              <point x="376.19906247099277" y="890.0" />
+              <point x="635.4073958043261" y="890.0" />
+              <point x="-37.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="-50.83333333333337" y="-15.0" />
+              <point x="931.8306066091143" y="800.0" />
+              <point x="917.2261904761904" y="800.0" />
+              <point x="917.2261904761904" y="520.0" />
+              <point x="768.7857142857142" y="520.0" />
+              <point x="29.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31">
+              <point x="72.0" y="-15.0" />
+              <point x="1363.7407291376594" y="810.0" />
+              <point x="1490.5740624709929" y="810.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+              <point x="-72.5" y="-15.0" />
+              <point x="2234.193423373248" y="790.0" />
+              <point x="1084.7056066091143" y="790.0" />
+              <point x="36.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="-57.33333333333337" y="-15.0" />
+              <point x="2533.532395804326" y="700.0" />
+              <point x="2527.3657291376594" y="700.0" />
+              <point x="49.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="452.03571428571433" y="520.0" />
+              <point x="442.53571428571433" y="520.0" />
+              <point x="442.53571428571433" y="370.0" />
+              <point x="670.0389399424478" y="370.0" />
+              <point x="-40.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="-42.28571428571428" y="-15.0" />
+              <point x="630.1216815186119" y="800.0" />
+              <point x="366.53571428571433" y="800.0" />
+              <point x="366.53571428571433" y="270.0" />
+              <point x="617.4139399424478" y="270.0" />
+              <point x="-33.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31">
+              <point x="-24.0" y="-15.0" />
+              <point x="1267.7407291376594" y="800.0" />
+              <point x="1211.4556066091145" y="800.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="872.1639399424478" y="170.0" />
+              <point x="734.5357142857143" y="170.0" />
+              <point x="12.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="40.25" y="-15.0" />
+              <point x="2191.6157291376594" y="690.0" />
+              <point x="2428.3657291376594" y="690.0" />
+              <point x="-49.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6">
+              <point x="-14.5" y="-15.0" />
+              <point x="2292.193423373248" y="770.0" />
+              <point x="2151.3657291376594" y="770.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="-26.75" y="-15.0" />
+              <point x="1987.7407291376594" y="520.0" />
+              <point x="1921.1573958043261" y="520.0" />
+              <point x="25.666666666666742" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13">
+              <point x="-36.44444444444446" y="-15.0" />
+              <point x="285.0879513598817" y="920.0" />
+              <point x="223.5" y="920.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="43.5" y="-15.0" />
+              <point x="2350.193423373248" y="800.0" />
+              <point x="2494.3657291376594" y="800.0" />
+              <point x="16.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="-30.0" y="-15.0" />
+              <point x="422.03571428571433" y="520.0" />
+              <point x="427.6246867167922" y="520.0" />
+              <point x="427.6246867167922" y="280.0" />
+              <point x="630.9139399424478" y="280.0" />
+              <point x="-20.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-config:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE">
+              <point x="-64.0" y="-15.0" />
+              <point x="509.4107142857143" y="590.0" />
+              <point x="502.03571428571433" y="590.0" />
+              <point x="50.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="-63.428571428571445" y="-15.0" />
+              <point x="608.9788243757547" y="810.0" />
+              <point x="355.53571428571433" y="810.0" />
+              <point x="355.53571428571433" y="160.0" />
+              <point x="684.5357142857143" y="160.0" />
+              <point x="-37.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+              <point x="50.83333333333337" y="-15.0" />
+              <point x="1033.497273275781" y="810.0" />
+              <point x="1035.7056066091143" y="810.0" />
+              <point x="-12.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+              <point x="-48.0" y="-15.0" />
+              <point x="2841.693423373248" y="810.0" />
+              <point x="2752.8657291376594" y="810.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="-60.0" y="-15.0" />
+              <point x="392.03571428571433" y="520.0" />
+              <point x="416.6246867167922" y="520.0" />
+              <point x="416.6246867167922" y="170.0" />
+              <point x="692.8690476190477" y="170.0" />
+              <point x="-29.166666666666686" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="-58.0" y="-15.0" />
+              <point x="2309.8657291376594" y="610.0" />
+              <point x="2379.184523809524" y="610.0" />
+              <point x="-13.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="58.0" y="-15.0" />
+              <point x="2425.8657291376594" y="700.0" />
+              <point x="2461.3657291376594" y="700.0" />
+              <point x="-16.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework.security:spring-security-core:jar:5.0.6.RELEASE">
+              <point x="-21.14285714285711" y="-15.0" />
+              <point x="651.264538661469" y="790.0" />
+              <point x="422.28239580432614" y="790.0" />
+              <point x="422.28239580432614" y="590.0" />
+              <point x="452.03571428571433" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="1570.9907291376594" y="610.0" />
+              <point x="1531.5178571428569" y="610.0" />
+              <point x="25.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="-30.5" y="-15.0" />
+              <point x="952.1639399424477" y="790.0" />
+              <point x="928.2261904761904" y="790.0" />
+              <point x="928.2261904761904" y="370.0" />
+              <point x="750.0389399424478" y="370.0" />
+              <point x="40.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+              <point x="44.25" y="-15.0" />
+              <point x="783.5357142857142" y="420.0" />
+              <point x="855.1639399424478" y="420.0" />
+              <point x="-17.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6">
+              <point x="72.5" y="-15.0" />
+              <point x="2379.193423373248" y="810.0" />
+              <point x="2590.8657291376594" y="810.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final">
+              <point x="0.0" y="-15.0" />
+              <point x="2889.693423373248" y="810.0" />
+              <point x="2884.3657291376594" y="810.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3">
+              <point x="-65.33333333333326" y="-15.0" />
+              <point x="1830.1573958043261" y="610.0" />
+              <point x="1719.2196463380687" y="610.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="30.5" y="-15.0" />
+              <point x="1013.1639399424477" y="780.0" />
+              <point x="985.1639399424477" y="780.0" />
+              <point x="985.1639399424477" y="160.0" />
+              <point x="742.8690476190477" y="160.0" />
+              <point x="20.83333333333337" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/commons-codec:commons-codec:jar:1.11">
+              <point x="-72.88888888888891" y="-15.0" />
+              <point x="248.64350691543723" y="940.0" />
+              <point x="65.0" y="940.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+              <point x="63.428571428571445" y="-15.0" />
+              <point x="735.8359672328976" y="810.0" />
+              <point x="1011.2056066091143" y="810.0" />
+              <point x="-36.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE">
+              <point x="43.75" y="-15.0" />
+              <point x="1535.3240624709929" y="930.0" />
+              <point x="2306.693423373248" y="930.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="-40.25" y="-15.0" />
+              <point x="2111.1157291376594" y="600.0" />
+              <point x="2352.684523809524" y="600.0" />
+              <point x="-39.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE">
+              <point x="36.25" y="-15.0" />
+              <point x="1687.4907291376594" y="690.0" />
+              <point x="1895.4907291376594" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="25.5" y="-15.0" />
+              <point x="1531.5178571428569" y="140.0" />
+              <point x="759.5357142857143" y="140.0" />
+              <point x="37.50000000000003" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="-18.222222222222285" y="-15.0" />
+              <point x="303.31017358210386" y="940.0" />
+              <point x="306.5" y="940.0" />
+              <point x="306.5" y="260.0" />
+              <point x="603.9139399424478" y="260.0" />
+              <point x="-47.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="60.41666666666674" y="-15.0" />
+              <point x="1711.6573958043261" y="700.0" />
+              <point x="2093.7407291376594" y="700.0" />
+              <point x="2093.7407291376594" y="130.0" />
+              <point x="767.8690476190477" y="130.0" />
+              <point x="45.83333333333337" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="33.0" y="-15.0" />
+              <point x="2510.8657291376594" y="610.0" />
+              <point x="2557.6011904761904" y="610.0" />
+              <point x="-37.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.security:spring-security-web:jar:5.0.6.RELEASE">
+              <point x="-73.5" y="-15.0" />
+              <point x="765.532395804326" y="890.0" />
+              <point x="709.4073958043261" y="890.0" />
+              <point x="37.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="18.22222222222217" y="-15.0" />
+              <point x="339.7546180265483" y="940.0" />
+              <point x="328.5" y="940.0" />
+              <point x="328.5" y="600.0" />
+              <point x="537.5357142857142" y="600.0" />
+              <point x="537.5357142857142" y="510.0" />
+              <point x="709.7857142857142" y="510.0" />
+              <point x="-29.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE" target="org.springframework.security.oauth:spring-security-oauth2:jar:2.3.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+              <point x="73.5" y="-15.0" />
+              <point x="912.532395804326" y="910.0" />
+              <point x="1621.5740624709929" y="910.0" />
+              <point x="1621.5740624709929" y="810.0" />
+              <point x="1602.9073958043261" y="810.0" />
+              <point x="-48.33333333333326" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final">
+              <point x="72.91666666666674" y="-15.0" />
+              <point x="1564.4907291376594" y="940.0" />
+              <point x="2889.693423373248" y="940.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0">
+              <point x="65.33333333333326" y="-15.0" />
+              <point x="1960.8240624709927" y="610.0" />
+              <point x="2014.4907291376594" y="610.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-security:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19">
+              <point x="12.083333333333258" y="-15.0" />
+              <point x="1663.3240624709927" y="680.0" />
+              <point x="1731.4907291376594" y="680.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6">
+              <point x="14.5" y="-15.0" />
+              <point x="2321.193423373248" y="790.0" />
+              <point x="2367.8657291376594" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.14480975249353528" x="1647.3469387755101" y="-4.468112244898066" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client1/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/io/spring/platform/platform-bom/Cairo-SR4/platform-bom-Cairo-SR4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sso-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
