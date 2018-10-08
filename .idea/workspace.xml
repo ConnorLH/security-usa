@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a37eba44-8d1a-4335-b13f-6fa127539eb5" name="Default Changelist" comment="">
+    <list default="true" id="a37eba44-8d1a-4335-b13f-6fa127539eb5" name="Default Changelist" comment="调整依赖支持SSO">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client1/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client2/src/main/java/sso/SsoClient2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-client2/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/HttpSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoUserDetailsService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sso-client1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-client1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-client1/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-client1/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-client2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-client2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-client2/sso-client2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-client2/sso-client2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-server/src/test/java/cn/corner/sso/server/SsoServerApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sso-server/target/" />
@@ -66,8 +89,8 @@
       <file leaf-file-name="SsoAuthorizationServerConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            <state relative-caret-position="144">
+              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,52 +98,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso-server/src/main/resources/application.yml">
+      <file leaf-file-name="ClientDetailsServiceBuilder.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/builders/ClientDetailsServiceBuilder.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="8">
+              <caret line="76" column="53" lean-forward="true" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SsoClient1Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sso-client1/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="192">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sso-client1/pom.xml">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sso-client2/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="100">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -130,6 +130,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -141,17 +142,33 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ConnorLH &lt;1206350636@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sso-server/pom.xml" />
-        <option value="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java" />
         <option value="$PROJECT_DIR$/sso-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java" />
         <option value="$PROJECT_DIR$/sso-client1/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/sso-client2/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/java/sso/SsoClient1Application.java" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/java/sso/SsoClient2Application.java" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/HttpSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoApprovalEndpoint.java" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -184,6 +201,10 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="sso-client1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sso-client2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -245,6 +266,84 @@
             <path>
               <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
               <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-client2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
               <item name="sso-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -274,7 +373,41 @@
               <item name="sso-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sso" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-uas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-uas" type="462c0819:PsiDirectoryNode" />
+              <item name="sso-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,6 +416,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -298,9 +436,13 @@
       <recent name="cn.corner.sso" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.corner.sso.server" />
       <recent name="cn.corner.sso" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Development\security-uas\sso-client2\src\main\resources" />
+      <recent name="E:\Development\security-uas\sso-client1\src\main\resources" />
+      <recent name="E:\Development\security-uas\sso-client2\src\main\java" />
       <recent name="F:\Develop\security-uas\sso-client1\src\main\resources" />
     </key>
   </component>
@@ -316,11 +458,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Client2">
+    <configuration name="Client1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-client1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.corner.sso.SsoClient1Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="Client2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sso-client2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sso.SsoClient2Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
     <configuration name="SsoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="sso-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.corner.sso.SsoServerApplication" />
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SsoServerApplication" />
+      <item itemvalue="Spring Boot.Client1" />
+      <item itemvalue="Spring Boot.Client2" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -333,12 +490,20 @@
       <option name="presentableId" value="Default" />
       <updated>1538899664197</updated>
       <workItem from="1538899665487" duration="6188000" />
-      <workItem from="1538965877212" duration="1046000" />
+      <workItem from="1538965877212" duration="10398000" />
     </task>
+    <task id="LOCAL-00001" summary="调整依赖支持SSO">
+      <created>1538967021685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538967021685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7234000" />
+    <option name="totallyTimeSpent" value="16586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -356,15 +521,16 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298969" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="JRebel" order="2" side_tool="true" />
@@ -385,6 +551,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="调整依赖支持SSO" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整依赖支持SSO" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java">
@@ -435,30 +605,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sso-client2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/SsoServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sso-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1172,9 +1322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sso-client1/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$MAVEN_REPOSITORY$/io/spring/platform/platform-bom/Cairo-SR4/platform-bom-Cairo-SR4.pom" />
     <entry file="file://$PROJECT_DIR$/sso-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1183,24 +1330,173 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sso-client1/src/main/java/cn/corner/sso/SsoClient1Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="38">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sso-client1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="302">
+          <caret line="34" column="19" selection-start-line="13" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/sso-client2/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="772">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/test/java/cn/corner/sso/server/SsoServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client2/src/main/java/sso/SsoClient2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client1/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client2/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/HttpSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/client/BaseClientDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/WhitelabelApprovalEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="110" column="5" lean-forward="true" selection-start-line="26" selection-end-line="110" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoAuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-server/src/main/java/cn/corner/sso/server/SsoApprovalEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/builders/ClientDetailsServiceBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="76" column="53" lean-forward="true" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.0.0.RELEASE/spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/security/oauth2/resource/ResourceServerProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+          <folding>
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3079#3080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client1/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>

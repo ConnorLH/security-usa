@@ -1,12 +1,12 @@
 server:
-  port: 8082
+  port: 8083
   servlet:
-    context-path: /client1
+    context-path: /client2
 security:
   oauth2:
     client:
-      client-id: corner1
-      client-secret: aaa1
+      client-id: corner2
+      client-secret: aaa2
       user-authorization-uri: http://localhost:8081/server/oauth/authorize
       access-token-uri: http://localhost:8081/server/oauth/token
     resource:
