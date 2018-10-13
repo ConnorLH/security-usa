@@ -20,7 +20,8 @@ public class SsoAuthorizationServerConfig extends AuthorizationServerConfigurerA
         clients.inMemory()
                 .withClient("corner1")
                 .secret("aaa1")
-                .authorizedGrantTypes("authorization_code","refresh_token")
+                .authorizedGrantTypes("authorization_code","refresh_token","password")
+                // 这里是拿到code后302的url，默认拦截/login，拦截到后会自动处理
                 .redirectUris("http://localhost:8082/client1/login")
                 .scopes("all")
                 .autoApprove(true)

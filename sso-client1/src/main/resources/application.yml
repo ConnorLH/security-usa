@@ -7,8 +7,11 @@ security:
     client:
       client-id: corner1
       client-secret: aaa1
+#      拿code的uri
       user-authorization-uri: http://localhost:8081/server/oauth/authorize
+#      用code换access_token的uri
       access-token-uri: http://localhost:8081/server/oauth/token
     resource:
       jwt:
+#      拿JWT密钥的uri
         key-uri:  http://localhost:8081/server/oauth/token_key
