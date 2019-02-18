@@ -18,6 +18,7 @@
         <module>sso-server</module>
         <module>sso-client1</module>
         <module>sso-client2</module>
+        <module>oauth2-client</module>
     </modules>
 
     <properties>

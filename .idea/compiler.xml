@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="oauth2-client" />
         <module name="sso-client1" />
         <module name="sso-client2" />
         <module name="sso-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="oauth2-client" target="1.8" />
       <module name="security-uas" target="1.8" />
       <module name="sso-client1" target="1.8" />
       <module name="sso-client2" target="1.8" />
