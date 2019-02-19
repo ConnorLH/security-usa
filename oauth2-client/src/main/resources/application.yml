@@ -7,13 +7,13 @@ security:
     client:
       client-id: corner
       client-secret: aaa
-      user-authorization-uri: http://localhost:8081/server/oauth/authorize
-      access-token-uri: http://localhost:8081/server/oauth/token
+      user-authorization-uri: http://localhost:8080/server/oauth/authorize
+      access-token-uri: http://localhost:8080/server/oauth/token
       pre-established-redirect-uri: http://localhost:8083/client/login
     resource:
       jwt:
   #      拿JWT密钥的uri
-        key-uri:  http://localhost:8081/server/oauth/token_key
+        key-uri:  http://localhost:8080/server/oauth/token_key
 corner:
   security:
     access-token-uri: ${security.oauth2.client.access-token-uri}
@@ -22,4 +22,4 @@ corner:
     client-authentication-scheme: header
 logging:
   level:
-    root: debug
+    root: info

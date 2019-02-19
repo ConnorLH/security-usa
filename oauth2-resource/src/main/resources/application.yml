@@ -7,9 +7,9 @@ security:
     client:
       client-id: resource
       client-secret: aaa
-      user-authorization-uri: http://localhost:8081/server/oauth/authorize
-      access-token-uri: http://localhost:8081/server/oauth/token
+      user-authorization-uri: http://localhost:8080/server/oauth/authorize
+      access-token-uri: http://localhost:8080/server/oauth/token
       pre-established-redirect-uri: http://localhost:8084/resource/login
     resource:
       jwt:
-        key-uri:  http://localhost:8081/server/oauth/token_key
+        key-uri:  http://localhost:8080/server/oauth/token_key
