@@ -1,14 +1,25 @@
 server:
   port: 8083
   servlet:
-    context-path: /client2
+    context-path: /client
 security:
   oauth2:
     client:
-      client-id: corner2
-      client-secret: aaa2
+      client-id: corner
+      client-secret: aaa
       user-authorization-uri: http://localhost:8081/server/oauth/authorize
       access-token-uri: http://localhost:8081/server/oauth/token
+      pre-established-redirect-uri: http://localhost:8083/client/login
     resource:
       jwt:
+  #      拿JWT密钥的uri
         key-uri:  http://localhost:8081/server/oauth/token_key
+corner:
+  security:
+    access-token-uri: ${security.oauth2.client.access-token-uri}
+    client-id: ${security.oauth2.client.clientId}
+    client-secret: ${security.oauth2.client.clientSecret}
+    client-authentication-scheme: header
+logging:
+  level:
+    root: debug

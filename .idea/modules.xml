@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/oauth2-client/oauth2-client.iml" filepath="$PROJECT_DIR$/oauth2-client/oauth2-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-resource/oauth2-resource.iml" filepath="$PROJECT_DIR$/oauth2-resource/oauth2-resource.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-uas.iml" filepath="$PROJECT_DIR$/security-uas.iml" />
       <module fileurl="file://$PROJECT_DIR$/sso-client1/sso-client1.iml" filepath="$PROJECT_DIR$/sso-client1/sso-client1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sso-client2/sso-client2.iml" filepath="$PROJECT_DIR$/sso-client2/sso-client2.iml" />

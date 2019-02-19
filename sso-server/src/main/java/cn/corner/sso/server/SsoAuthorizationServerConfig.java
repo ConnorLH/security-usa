@@ -8,6 +8,8 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.A
 import org.springframework.security.oauth2.config.annotation.web.configuration.EnableAuthorizationServer;
 import org.springframework.security.oauth2.config.annotation.web.configurers.AuthorizationServerEndpointsConfigurer;
 import org.springframework.security.oauth2.config.annotation.web.configurers.AuthorizationServerSecurityConfigurer;
+import org.springframework.security.oauth2.provider.OAuth2RequestFactory;
+import org.springframework.security.oauth2.provider.request.DefaultOAuth2RequestFactory;
 import org.springframework.security.oauth2.provider.token.TokenStore;
 import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter;
 import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
@@ -38,6 +40,12 @@ public class SsoAuthorizationServerConfig extends AuthorizationServerConfigurerA
     @Override
     public void configure(AuthorizationServerEndpointsConfigurer endpoints) throws Exception {
         endpoints.tokenStore(jwtTokenStore()).accessTokenConverter(jwtAccessTokenConverter());
+        /*设置可以将用户角色作为scope
+        即请求中的scope可以是这种形式XXX,XXX是角色名,当然同时也需要在上面那个配置里进行配置
+        注意配置的形式是"ROLE_XXX"
+        */
+//        DefaultOAuth2RequestFactory requestFactory = (DefaultOAuth2RequestFactory)endpoints.getOAuth2RequestFactory();
+//        requestFactory.setCheckUserScopes(true);
     }
 
     @Override
