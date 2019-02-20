@@ -23,4 +23,10 @@ public class UserController {
         String result = restTemplate.getForObject("http://localhost:8084/resource/test", String.class);
         return result;
     }
+
+    @GetMapping("/testAuth2")
+    public String testAuth2(){
+        String result = restTemplate.getForObject("http://localhost:8084/resource/test2", String.class);
+        return result;
+    }
 }

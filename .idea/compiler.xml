@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="oauth2-client" />
         <module name="oauth2-resource" />
+        <module name="oauth2-resource2" />
         <module name="sso-client1" />
         <module name="sso-client2" />
         <module name="sso-server" />
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel>
       <module name="oauth2-client" target="1.8" />
       <module name="oauth2-resource" target="1.8" />
+      <module name="oauth2-resource2" target="1.8" />
       <module name="security-uas" target="1.8" />
       <module name="sso-client1" target="1.8" />
       <module name="sso-client2" target="1.8" />

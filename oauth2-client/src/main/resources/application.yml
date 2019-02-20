@@ -17,8 +17,8 @@ security:
 corner:
   security:
     access-token-uri: ${security.oauth2.client.access-token-uri}
-    client-id: ${security.oauth2.client.clientId}
-    client-secret: ${security.oauth2.client.clientSecret}
+    client-id: ${security.oauth2.client.client-id}
+    client-secret: ${security.oauth2.client.client-secret}
     client-authentication-scheme: header
 logging:
   level:

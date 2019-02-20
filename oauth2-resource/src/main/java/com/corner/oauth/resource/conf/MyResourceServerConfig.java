@@ -22,7 +22,7 @@ public class MyResourceServerConfig extends ResourceServerConfigurerAdapter {
         http
             .csrf().disable()
             // 这里必须配置这个，不然报错
-            .authorizeRequests().anyRequest().authenticated();
+            .authorizeRequests().anyRequest().permitAll();
     }
 
     /**

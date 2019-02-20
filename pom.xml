@@ -20,6 +20,7 @@
         <module>sso-client2</module>
         <module>oauth2-client</module>
         <module>oauth2-resource</module>
+        <module>oauth2-resource2</module>
     </modules>
 
     <properties>

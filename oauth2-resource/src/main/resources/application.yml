@@ -13,3 +13,9 @@ security:
     resource:
       jwt:
         key-uri:  http://localhost:8080/server/oauth/token_key
+corner:
+  security:
+    access-token-uri: ${security.oauth2.client.access-token-uri}
+    client-id: ${security.oauth2.client.client-id}
+    client-secret: ${security.oauth2.client.client-secret}
+    client-authentication-scheme: header

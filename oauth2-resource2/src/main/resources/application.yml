@@ -1,0 +1,15 @@
+server:
+  port: 8085
+  servlet:
+    context-path: /resource2
+security:
+  oauth2:
+    client:
+      client-id: resource2
+      client-secret: aaa
+      user-authorization-uri: http://localhost:8080/server/oauth/authorize
+      access-token-uri: http://localhost:8080/server/oauth/token
+      pre-established-redirect-uri: http://localhost:8085/resource2/login
+    resource:
+      jwt:
+        key-uri:  http://localhost:8080/server/oauth/token_key

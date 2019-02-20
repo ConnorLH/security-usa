@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @ConfigurationProperties(prefix = "corner.security")
 public class Oauth2ClientProperties {
 
-    private String accessTokenUrl;
+    private String accessTokenUri;
 
     private String clientId;
 
